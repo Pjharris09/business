@@ -11,8 +11,8 @@ export const Config = {
   mapApiKey: 'AIzaSyACdXwFV6SfAW4ET-uYdkq5zkoix6aFYK4',
 
   backendlessConfig: {
-    appId: '1:559173223789:web:bfe340ebfe33e882c6c664',
-    appKey: 'AIzaSyCFkcKxD9DKXSeV3ukpmZFq6755EV06fLI',
+    appId: '1E6CE0298-C4F0-7122-FF02-F584FCE22D00',
+    appKey: 'BC119FEF-98A7-4370-AF9F-D4C3B6994FA7',
   },
 
   DATA_SERVICE: DataServiceType.firebase,
@@ -24,12 +24,12 @@ export const Config = {
   drupalApiUrl: 'https://demo.titaniumtemplates.com/drupal/rest/views/rest_api',
 
   firebase: {
-    apiKey: 'AIzaSyCFkcKxD9DKXSeV3ukpmZFq6755EV06fLI',
-    authDomain: 'business-directory-admin-de0a6.firebaseapp.com',
-    databaseURL: 'https://business-directory-admin-de0a6-default-rtdb.firebaseio.com',
-    projectId: 'business-directory-admin-de0a6',
-    storageBucket: 'business-directory-admin-de0a6.appspot.com',
-    messagingSenderId: '559173223789',
+    apiKey: 'AIzaSyB18ptwN9cGJgE_3x7G6uO9TaeErIJakYI',
+    authDomain: 'hmg-electric.firebaseapp.com',
+    databaseURL: 'https://hmg-electric.firebaseio.com',
+    projectId: 'hmg-electric',
+    storageBucket: 'hmg-electric.appspot.com',
+    messagingSenderId: '741546606864',
 
   },
 };
